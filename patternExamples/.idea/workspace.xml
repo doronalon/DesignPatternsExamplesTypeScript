@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f8f5efe-fb32-45cc-a42e-3d4190ae7220" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="24Bo7Jp4BM9Wj0gxd4oXzoyGUog" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="ts.external.directory.path" value="C:\Users\dalon\AppData\Local\JetBrains\Toolbox\apps\WebStorm\ch-0\211.7628.25\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f8f5efe-fb32-45cc-a42e-3d4190ae7220" name="Default Changelist" comment="" />
+      <created>1643113172261</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643113172261</updated>
+      <workItem from="1643113173849" duration="20000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/MementoExample.js.map" />
+        <option value="$PROJECT_DIR$/MementoExample.js" />
+        <option value="$PROJECT_DIR$/ObserverExample.js.map" />
+        <option value="$PROJECT_DIR$/ObserverExample.js" />
+        <option value="$PROJECT_DIR$/PrototypeExample.js.map" />
+        <option value="$PROJECT_DIR$/PrototypeExample.js" />
+        <option value="$PROJECT_DIR$/StateExample.js.map" />
+        <option value="$PROJECT_DIR$/StateExample.js" />
+        <option value="$PROJECT_DIR$/StrategyExample.js.map" />
+        <option value="$PROJECT_DIR$/StrategyExample.js" />
+        <option value="$PROJECT_DIR$/ChainOfResponsibilityExample.js.map" />
+        <option value="$PROJECT_DIR$/ChainOfResponsibilityExample.js" />
+        <option value="$PROJECT_DIR$/VisitorExampleCursor.js.map" />
+        <option value="$PROJECT_DIR$/VisitorExampleCursor.js" />
+        <option value="$PROJECT_DIR$/CompositeExample.js.map" />
+        <option value="$PROJECT_DIR$/CompositeExample.js" />
+        <option value="$PROJECT_DIR$/CommandExample.js.map" />
+        <option value="$PROJECT_DIR$/CommandExample.js" />
+        <option value="$PROJECT_DIR$/VisitorExample.js.map" />
+        <option value="$PROJECT_DIR$/VisitorExample.js" />
+        <option value="$PROJECT_DIR$/FacadeExample.js.map" />
+        <option value="$PROJECT_DIR$/FacadeExample.js" />
+        <option value="$PROJECT_DIR$/IteratorExample.js.map" />
+        <option value="$PROJECT_DIR$/IteratorExample.js" />
+        <option value="$PROJECT_DIR$/FlyweightExample.js.map" />
+        <option value="$PROJECT_DIR$/FlyweightExample.js" />
+        <option value="$PROJECT_DIR$/FactoryMethodExample.js.map" />
+        <option value="$PROJECT_DIR$/FactoryMethodExample.js" />
+        <option value="$PROJECT_DIR$/DecoratorExample.js.map" />
+        <option value="$PROJECT_DIR$/DecoratorExample.js" />
+        <option value="$PROJECT_DIR$/AbstractFactoryExample.js.map" />
+        <option value="$PROJECT_DIR$/AbstractFactoryExample.js" />
+        <option value="$PROJECT_DIR$/TemplateMethodExample.js.map" />
+        <option value="$PROJECT_DIR$/TemplateMethodExample.js" />
+        <option value="$PROJECT_DIR$/MediatorExample.js.map" />
+        <option value="$PROJECT_DIR$/MediatorExample.js" />
+        <option value="$PROJECT_DIR$/BridgeExample.js.map" />
+        <option value="$PROJECT_DIR$/BridgeExample.js" />
+        <option value="$PROJECT_DIR$/BuilderExample.js.map" />
+        <option value="$PROJECT_DIR$/BuilderExample.js" />
+        <option value="$PROJECT_DIR$/InterpreterExample.js.map" />
+        <option value="$PROJECT_DIR$/InterpreterExample.js" />
+        <option value="$PROJECT_DIR$/IteratorExampleGenerics.js.map" />
+        <option value="$PROJECT_DIR$/IteratorExampleGenerics.js" />
+        <option value="$PROJECT_DIR$/AdapterExample.js.map" />
+        <option value="$PROJECT_DIR$/AdapterExample.js" />
+        <option value="$PROJECT_DIR$/ProxyExample.js.map" />
+        <option value="$PROJECT_DIR$/ProxyExample.js" />
+        <option value="$PROJECT_DIR$/CommandExampleCursor.js.map" />
+        <option value="$PROJECT_DIR$/CommandExampleCursor.js" />
+      </list>
+    </option>
+  </component>
+</project>
